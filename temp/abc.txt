@@ -1,3 +1,4 @@
 abadf
 fetch_test
 remote
+local
